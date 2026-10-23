@@ -1,0 +1,5 @@
+I'd be happy to help you understand what HTML is!
+
+According to the course videos, you can find the answer in "Your First HTML Website" (Video 2). Specifically, you can check out the segment at around 05:22-05:24.
+
+In this part of the video, the instructor explains that "Index.html is an HTML file." This is a great introduction to the basics of HTML!
