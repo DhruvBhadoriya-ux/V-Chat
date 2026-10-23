@@ -7,9 +7,12 @@
 venv/
 __pycache__/
 *.py[cod]
-*.joblib
 *.pkl
 
 node_modules/
 dist/
+
+
+Backend/videos/
 .DS_Store
+*.joblib
