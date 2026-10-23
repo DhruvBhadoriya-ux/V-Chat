@@ -1,6 +1,11 @@
-# Environment variables
 .env
+.env.*
+!.env.example
 
-# Python
+.venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
+.DS_Store
+
+Backend/videos/
